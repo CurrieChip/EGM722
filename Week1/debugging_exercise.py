@@ -1,4 +1,4 @@
-# import random
+import random
 
 # pick a random number for the user to guess
 rand = random.randint(1, 100)
